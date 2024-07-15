@@ -1,0 +1,7 @@
+201|Sleep
+202|Depression
+203|Anger
+204|Stress
+205|Loneliness
+206|Self-Love
+207|focus
